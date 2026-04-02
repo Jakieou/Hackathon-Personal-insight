@@ -6,7 +6,9 @@
 ## Project Overview
 
 This project studies the relationship between government policy, public trust, and real-world outcomes, with a focus on identifying and understanding the mismatch (gap) between policy actions and public perception. Rather than only analyzing policy effectiveness or trust separately, this project emphasizes whether policy and public trust adjust synchronously, and what happens when they do not.
+
 If, in the future, the government continues to make rapid policy adjustments in response to crises while public trust fails to keep pace, the costs of policy implementation, public resistance, and the risk of a mismatch between policy and public perception will all increase. It suggests that future governance should focus not only on policy effectiveness, but also on the alignment between policy timing and public trust, since unmanaged mismatch may undermine policy acceptance and long-run effectiveness.
+
 ---
 
 ## Analytical Framework
